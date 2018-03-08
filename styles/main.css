@@ -1,0 +1,197 @@
+
+.char1 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+
+}
+
+.char2 {
+
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+}
+.char3 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+}
+.char4 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+}
+.char5 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+}
+.char6 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+}
+.char7 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+}
+.char8 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+}
+.char9 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+}
+.char10 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+}
+.char11 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+}
+.char12 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+}
+.char13 {
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'Frijole', cursive;
+
+
+}
+.char14 {
+
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+
+
+
+}
+.char15 {
+
+  color : blue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+
+
+
+}
+.char16 {
+
+  color : lightblue;
+  font-size: 2em;
+    font-family: 'frijole', cursive;
+
+
+
+
+}
+.char17 {
+
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+
+
+
+
+}
+.char18 {
+
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+
+
+
+}
+.char19 {
+
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+
+
+
+
+
+}
+.char20 {
+
+  color : lightblue;
+  font-size: 2em;
+  font-family: 'frijole', cursive;
+
+
+
+
+
+}
+.char21 {
+
+  color : lightblue;
+  font-size: 2em;
+<<<<<<< HEAD
+  font-family: 'frijole', cursive;
+
+
+
+=======
+  font-family: 'Karma', serif;
+}
+.gallery {
+display: flex;
+  justify-content: center;
+  align-items: center;
+>>>>>>> f9cc2b2a8d6c70d1a36a0b1fdd162cb68b2eb456
+}
+
+
+  img {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+
+
+}
+<<<<<<< HEAD
+.gallery{display: flex;
+justify-content: center;
+align-items: center;}
+=======
+
+.thumb {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+text-align: center;
+
+}
+>>>>>>> f9cc2b2a8d6c70d1a36a0b1fdd162cb68b2eb456
